@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <lstPT>
+    <PowerTool>
+      <Sides>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Sides>
+      <features />
+      <Number>2</Number>
+      <Price>3 599</Price>
+      <Name>Дрель-шуруповерт Bosch Professional GSR 12V-30</Name>
+      <Day>23</Day>
+      <Month>7</Month>
+      <Year>2019</Year>
+      <Country>2</Country>
+      <PowerType>2</PowerType>
+      <photo_file_name>2.jpg</photo_file_name>
+    </PowerTool>
+    <PowerTool>
+      <Sides>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Sides>
+      <features />
+      <Number>4</Number>
+      <Price>3599</Price>
+      <Name>Перфоратор Bosch Professional GBH 2-24 DRE</Name>
+      <Day>27</Day>
+      <Month>8</Month>
+      <Year>1997</Year>
+      <Country>4</Country>
+      <PowerType>3</PowerType>
+      <photo_file_name>4.jpg</photo_file_name>
+    </PowerTool>
+    <PowerTool>
+      <Sides>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Sides>
+      <features />
+      <Number>1</Number>
+      <Price>1 566</Price>
+      <Name>Пила циркулярная DWT HKS12-54</Name>
+      <Day>1</Day>
+      <Month>1</Month>
+      <Year>2019</Year>
+      <Country>1</Country>
+      <PowerType>1</PowerType>
+      <photo_file_name>1.jpg</photo_file_name>
+    </PowerTool>
+    <PowerTool>
+      <Sides>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </Sides>
+      <features />
+      <Number>3</Number>
+      <Price>1 111</Price>
+      <Name>Угловая шлифмашина Bosch PWS 850-125</Name>
+      <Day>27</Day>
+      <Month>7</Month>
+      <Year>2018</Year>
+      <Country>4</Country>
+      <PowerType>6</PowerType>
+      <photo_file_name>3.jpg</photo_file_name>
+    </PowerTool>
+    <PowerTool>
+      <Sides>
+        <int>1</int>
+        <int>1</int>
+        <int>1</int>
+      </Sides>
+      <features>
+        <string>2 круги</string>
+        <string>ключ</string>
+      </features>
+      <Number>5</Number>
+      <Price>1500</Price>
+      <Name>Болгарка B1000</Name>
+      <Day>24</Day>
+      <Month>8</Month>
+      <Year>2020</Year>
+      <Country>0</Country>
+      <PowerType>4</PowerType>
+      <photo_file_name>5.jpg</photo_file_name>
+    </PowerTool>
+  </lstPT>
+  <lstT>
+    <PowerToolType>
+      <Number>1</Number>
+      <Name>Шуруповерти</Name>
+    </PowerToolType>
+    <PowerToolType>
+      <Number>2</Number>
+      <Name>Дрилі</Name>
+    </PowerToolType>
+    <PowerToolType>
+      <Number>3</Number>
+      <Name>Перфоратори</Name>
+    </PowerToolType>
+    <PowerToolType>
+      <Number>4</Number>
+      <Name>Болгарки</Name>
+    </PowerToolType>
+    <PowerToolType>
+      <Number>5</Number>
+      <Name>Пилки</Name>
+    </PowerToolType>
+    <PowerToolType>
+      <Number>6</Number>
+      <Name>Шліфмашинки</Name>
+    </PowerToolType>
+  </lstT>
+</Data>

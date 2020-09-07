@@ -1,0 +1,68 @@
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csprojAssemblyReference.cache
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Properties.Resources.resources
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.GenerateResource.cache
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe.config
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.pdb
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.exe
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.pdb
+C:\Users\OLEG\source\repos\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form1.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe.config
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.pdb
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form1.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.exe
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.pdb
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form_add_student.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form_login.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form_about.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAddLanguage.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAddMark.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAboutAuthor.resources
+C:\Users\Lenovo\Desktop\Work\Курсовая\No_error\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAnimation.resources
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe.config
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.pdb
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csprojAssemblyReference.cache
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAboutAuthor.resources
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form1.resources
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Properties.Resources.resources
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.GenerateResource.cache
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.CoreCompileInputs.cache
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.exe
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.pdb
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form_Add_PowerTool.resources
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAddFeature.resources
+D:\BOOKS\Репетитор\Ярослав C# до 25 числа\CourseWork\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAddSides.resources
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe.config
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.pdb
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAboutAuthor.resources
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAddFeature.resources
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAddSides.resources
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form1.resources
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form_Add_PowerTool.resources
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Properties.Resources.resources
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.exe
+C:\Users\пк\Desktop\WindowsFormsCourseWork\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.pdb
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe.config
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.exe
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\bin\Debug\WindowsFormsCourseWork.pdb
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAboutAuthor.resources
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAddFeature.resources
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.FormAddSides.resources
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form1.resources
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Form_Add_PowerTool.resources
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.Properties.Resources.resources
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.exe
+C:\Users\пк\Desktop\Курсова робота Гайша Ярослав КН-18\WindowsFormsCourseWork\obj\Debug\WindowsFormsCourseWork.pdb

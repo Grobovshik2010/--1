@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D1FA1B8F-7430-4310-A4DF-D8C912BA8D7F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsCourseWork</RootNamespace>
+    <AssemblyName>WindowsFormsCourseWork</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>drill48.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bulgarians.cs" />
+    <Compile Include="Data.cs" />
+    <Compile Include="DataXmlSerilization.cs" />
+    <Compile Include="Drills.cs" />
+    <Compile Include="FormAboutAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAboutAuthor.Designer.cs">
+      <DependentUpon>FormAboutAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddFeature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddFeature.Designer.cs">
+      <DependentUpon>FormAddFeature.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSides.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSides.Designer.cs">
+      <DependentUpon>FormAddSides.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_,main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_,main.Designer.cs">
+      <DependentUpon>Form_,main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_PowerTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_PowerTool.Designer.cs">
+      <DependentUpon>Form_add_PowerTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grinders.cs" />
+    <Compile Include="Perforators.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PowerTool.cs" />
+    <Compile Include="PowerToolType.cs" />
+    <Compile Include="Saw.cs" />
+    <Compile Include="Screwdrivers.cs" />
+    <EmbeddedResource Include="FormAboutAuthor.resx">
+      <DependentUpon>FormAboutAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddFeature.resx">
+      <DependentUpon>FormAddFeature.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSides.resx">
+      <DependentUpon>FormAddSides.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_,main.resx">
+      <DependentUpon>Form_,main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_PowerTool.resx">
+      <DependentUpon>Form_add_PowerTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3592869-compose-create-edit-edit-file-office-pencil-writing-creative_107746.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_watch_eye_icon_131255.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\support_call_center_help_information_customer_service_icon_140644.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\support_call_center_help_information_customer_service_icon_1406441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="drill48.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

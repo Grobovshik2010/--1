@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsCourseWork.Bulgarians">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bulgarians.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.PowerTool" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIJQAAAAUAAEAAAQQAAAIBIAIEAAAAAAAQEAA=</HashCode>
+      <FileName>PowerTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.Data" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.DataXmlSerilization" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>DataXmlSerilization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.Drills">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.Grinders">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Grinders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.Perforators">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Perforators.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.PowerToolType" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerToolType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.Saw">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Saw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsCourseWork.Screwdrivers">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screwdrivers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
